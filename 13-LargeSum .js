@@ -102,7 +102,7 @@ const num =
 
 let steps = num.split("\n");
 
-let sum = 0;
+let sum =0;
 
 for (let i in steps) {
     // Add each 50 Digits number to the sum;
